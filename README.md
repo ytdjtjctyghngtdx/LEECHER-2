@@ -46,8 +46,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/DakshVV/LEECHER.git mirror-bot/
-cd mirror-bot
+git clone https://github.com/DakshVV/LEECHER.git
 ```
 
 - Install requirements
